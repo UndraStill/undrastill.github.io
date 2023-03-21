@@ -559,6 +559,18 @@ hr {
         padding:20px 12%;
     }
 }
+
+@media only screen and (max-width: 1214px) and (min-width: 1000px) {
+	.work{
+        padding:20px 12%;
+    }
+}
+
+@media only screen and (max-width: 1823px) and (min-width: 1824px) {
+	.work{
+        padding:20px 12%;
+    }
+}
  
  
 @media only screen and (max-width: 500px) {
